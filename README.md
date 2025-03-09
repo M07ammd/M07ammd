@@ -60,8 +60,10 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/M07ammd/M07ammd/output/snake.svg" alt="Snake animation" />
-
+<!-- Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation">
+</p>
 ###
 
 <div align="center">
