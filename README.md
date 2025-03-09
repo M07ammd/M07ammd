@@ -2,15 +2,15 @@
 
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdqMjAwOTloYWg5OHY4c3lwaG9yOGF5cWE0N2g5eXVoM2QzaXB2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RJVw6tIfb2dIwTHFb0/giphy.gif"  />
 
-
+###
 
 <h2 align="left">ɪ'ᴍ ِ Mohamed Hussein!</h2>
 
-
+###
 
 <h2 align="left">Front-end developer | React | Next.js</h2>
 
-
+###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mohamed-7ussein" target="_blank">
@@ -67,8 +67,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M07ammd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M07ammd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M07ammd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
 ###
