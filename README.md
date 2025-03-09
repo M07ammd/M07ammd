@@ -2,15 +2,15 @@
 
 <img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdqMjAwOTloYWg5OHY4c3lwaG9yOGF5cWE0N2g5eXVoM2QzaXB2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RJVw6tIfb2dIwTHFb0/giphy.gif"  />
 
-###
+
 
 <h2 align="left">ɪ'ᴍ ِ Mohamed Hussein!</h2>
 
-###
+
 
 <h2 align="left">Front-end developer | React | Next.js</h2>
 
-###
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/mohamed-7ussein" target="_blank">
