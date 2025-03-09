@@ -1,10 +1,8 @@
-<br clear="both">
-
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzdqMjAwOTloYWg5OHY4c3lwaG9yOGF5cWE0N2g5eXVoM2QzaXB2dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RJVw6tIfb2dIwTHFb0/giphy.gif"  />
+<img align="right" height="180" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW1heTlxa2tlbDFvbTJsa2cxOXhhczhxY2xkZ2IybjBkMHg2aWlzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bJ4TVNYNUympPgcpem/giphy.gif"  />
 
 ###
 
-<h2 align="left">ɪ'ᴍ ِ Mohamed Hussein!</h2>
+<h2 align="left">ɪ'ᴍ ِ Mohamed Hussein !</h2>
 
 ###
 
@@ -30,7 +28,7 @@
 
 ###
 
-<h3 align="center">🛠 Skills</h3>
+<h1 align="center">🛠 Skills</h1>
 
 ###
 
