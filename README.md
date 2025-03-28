@@ -55,17 +55,15 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/M07ammd/count.svg?"  />
-</div>
-
-###
 <!-- Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation">
 </p>
+###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/M07ammd/count.svg?"  />
+</div>
 ###
 
 <div align="center">
