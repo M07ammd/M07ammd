@@ -12,20 +12,26 @@
 
 <div align="left">
 
-  <a href="https://www.linkedin.com/in/mohamed-7ussein/" target="_blank" style="margin-right: 15px;">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="48" height="48" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/mohamed-7ussein/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="50" alt="LinkedIn"/>
   </a>
 
-  <a href="https://www.kaggle.com/mohamed7ussein" target="_blank" style="margin-right: 15px;">
-    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="48" height="48" alt="Kaggle"/>
+  <img width="20" />
+
+  <a href="https://www.kaggle.com/mohamed7ussein" target="_blank">
+    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="50" height="50" alt="Kaggle"/>
   </a>
 
-  <a href="https://portfolio-s7s.vercel.app/" target="_blank" style="margin-right: 15px;">
-    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="48" height="48" alt="Portfolio"/>
+  <img width="20" />
+
+  <a href="https://portfolio-s7s.vercel.app/" target="_blank">
+    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="50" height="50" alt="Portfolio"/>
   </a>
+
+  <img width="20" />
 
   <a href="mailto:your-email@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="48" height="48" alt="Gmail"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="50" alt="Gmail"/>
   </a>
 
 </div>
