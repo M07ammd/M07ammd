@@ -12,21 +12,26 @@
 
 <div align="left">
 
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/mohamed-7ussein/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"/>
-  </a> 
-   
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn"/>
+  </a>
+
+  <!-- Kaggle -->
   <a href="https://www.kaggle.com/mohamed7ussein" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/kaggle/default.svg" width="52" height="40" alt="Kaggle"/>
+    <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="40" height="40" alt="Kaggle"/>
   </a>
 
+  <!-- Portfolio -->
   <a href="https://portfolio-s7s.vercel.app/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/chrome/default.svg" width="52" height="40" alt="portfolio logo" />
+    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="40" height="40" alt="Portfolio"/>
   </a>
 
+  <!-- Gmail -->
   <a href="mailto:mohamedhusseinelsafty@example.com">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail"/>
   </a>
+
 </div>
 
 ###
