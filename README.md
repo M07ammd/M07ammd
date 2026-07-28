@@ -94,17 +94,3 @@
 
 ###
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=M07ammd&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-    height="170"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=M07ammd&layout=compact&theme=dracula&langs_count=8"
-    height="170"
-    alt="Top Languages"
-  />
-</div>
-
-###
