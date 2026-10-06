@@ -24,7 +24,7 @@
 
   <img width="20" />
 
-  <a href="https://portfolio-s7s.vercel.app/" target="_blank">
+  <a href="https://not-s7s.vercel.app" target="_blank">
     <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="50" height="50" alt="Portfolio"/>
   </a>
 
